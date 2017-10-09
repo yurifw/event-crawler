@@ -6,7 +6,7 @@ import datetime
 class FacebookCrawler():
 
     def __init__(self):
-        self.directory_to_save = "/home/yurifw/"
+        self.directory_to_save = "/var/www/html/"
         
         # dados do aplicativo EventCrawler
         #self.ap_id = "1802872966407095" #n esta sendo necssario por enquanto
